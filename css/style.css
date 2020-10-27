@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+span {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px red solid;
+    color: blue;
+}
+
+.a {
+   display: none;
+}
+
+.b {
+    display: inline;
+ }
+
+ .c {
+    display: inline-block;
+ }
+
+ .d {
+    display: block;
+ }
+ 
+
+p {
+    margin: 100px 150px 100px 80px;
+    border: double 10px green;
+    border-radius: 15px;
+    padding: 12px 14px;
+}
